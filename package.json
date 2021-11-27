@@ -1,0 +1,34 @@
+{
+  "name": "antiraid",
+  "version": "3.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --experimental-modules shard.js",
+    "dev": "nodemon src/express.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "captcha-canvas": "^3.1.0",
+    "connect-mongo": "^3.2.0",
+    "discord-backup": "^3.0.1",
+    "discord.js": "^13.2.0",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "moment": "^2.29.1",
+    "mongoose": "^6.0.12",
+    "morgan": "^1.10.0",
+    "ms": "^2.1.3",
+    "node-fetch": "^3.0.0",
+    "passport": "^0.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}

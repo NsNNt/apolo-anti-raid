@@ -1,0 +1,23 @@
+module.exports = {
+    negativo: "<:redTick:905736855826341908>",
+    positivo: "<:greenTick:905736850050805771>",
+    vote: "<:voteapolo:906775752488415292>",
+    escudo: "<:escudo:905736854781984778>",
+    staff: "<:staff:905736871349452800>",
+    reglas: "<:reglas:905736860393955338>",
+    slash: "<:slash:905736858078691348>",
+    mail: "<:mail:905736858644926495>",
+    cargando: "<a:cargando:905736867708821525>",
+    add: "<:add:905736872146403369>",
+    otros: "<:otros:905736853716627467>",
+    configuracion: "<:configuracion:905736845869088779>",
+    seguridad: "<:seguridad:905736862407221260>",
+    moderacion: "<:moderacion:905736843490902016>",
+    nueva: "<:nueva:905273177373016094>",
+    remover: "<:remover:905273177993781279>",
+    otrospremium: "<:otrospremium:902775710169579532>",
+    configuracionpremium: "<:configuracionpremium:905736856963002368>",
+    moderacionpremium: "<:moderacionpremium:905736844719849472>",
+    seguridadpremium: "<:seguridadpremium:905736851732701184>",
+    premium: "<:premium:905736852315709471>"
+}
